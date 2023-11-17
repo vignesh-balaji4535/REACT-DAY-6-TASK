@@ -1,0 +1,525 @@
+{
+    "all":[
+        {
+            "id":"1",
+            "title":"Data Engineer Salary in India 2023: You Should Know",
+            "content":"In the fast-paced digital age, data has become the lifeblood of businesses across industries. As"
+         },
+         {
+            "id":"2",
+            "title":"How Long it Would Take to Learn Data Engineering in 2023?",
+            "content":"Have you ever wondered how long it takes to get into the world of data"
+         },
+         {
+            "id":"3",
+            "title":"Data Engineering Syllabus 2023 | A Complete Guide",
+            "content":"Do you want to become an experienced Data Engineer? If so, are you confused about"
+         },
+         {
+            "id":"4",
+            "title":"Scope of Data Engineering in India in 2023",
+            "content":"Have you ever wondered about data engineers who are behind the data-driven revolution sweeping across"
+         },
+         {
+            "id":"5",
+            "title":"Top 7 Must-Know Machine Learning Tools",
+            "content":"There's no way you're a techie if you haven't heard about machine learning yet, I"
+         },
+         {
+            "id":"6",
+            "title":"10 Best YouTube Channels to learn Machine Learning",
+            "content":"Picture a world where virtual assistants anticipate your needs, where cars navigate without human intervention,"
+         },
+         {
+            "id":"7",
+            "title":"Roles & Responsibilities of Machine Learning Engineers",
+            "content":"I think we can all agree that recently, one of the most exciting areas of"
+         },
+         {
+            "id":"8",
+            "title":"How Long Does it Take to Learn Machine Learning? A Comprehensive Guide",
+            "content":"Machine learning is a constantly growing field that has captured the interest of countless aspiring"
+         },
+         {
+            "id":"9",
+            "title":"Top 10 Steps to Kickstart Your Career as a Machine Learning Engineer",
+            "content":"As businesses increasingly rely on data-driven insights to make informed decisions and derive solutions, the"
+         },
+         {
+            "id":"10",
+            "title":"The Future and Scope of Machine Learning Careers in the New Era",
+            "content":"Machine learning? Of course, you've heard of it, so I'm not going to make this"
+         },
+         {
+            "id":"11",
+            "title":"5 Best Motion Graphics Courses for Beginners",
+            "content":"In the dynamic world of visual storytelling, motion graphics have become an essential tool for"
+         },
+         {
+            "id":"12",
+            "title":"Real-World Machine Learning Applications",
+            "content":"We're about to dive into something really cool—machine learning in real life. Machine what, you"
+         },
+         {
+            "id":"13",
+            "title":"Best Motion Graphics Webinars and Workshops",
+            "content":"Motion graphics are a fantastic way to create the illusion of movement by combining animation"
+         },
+         {
+            "id":"14",
+            "title":"Best Way to Learn Data Engineering in 2023",
+            "content":"Have you ever wondered what it takes to become a data engineer? Is unraveling complex"
+         },
+         {
+            "id":"15",
+            "title":"Data Transformers: Roles and Responsibilities of Data Engineers",
+            "content":"Have you ever stopped to think about how the apps on your phone know exactly"
+         },
+         {
+            "id":"16",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023.png",
+            "title":"5 Career Opportunities for Full Stack Development ",
+            "content":"Ever wondered what awesome job opportunities are waiting for you in the field of Full Stack Development? Well, this blog is just for you! "
+        },
+        {
+            "id":"17",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9.png",
+            "title":"A Complete DevOps Career Roadmap in 2023 ",
+            "content":" Do you want to pursue a career in DevOps? If so, then you must've been"
+        },
+        {
+            "id":"18",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+            "title":" Top 12 Career Opportunities for UI/UX Design",
+            "content":"Are you passionate about offering intuitive and user-friendly digital experiences? Do you have an eye "
+        },
+        {
+            "id":"19",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-How-to-Become-a-Motion-Graphics-Designer.webp ",
+            "title":"How to Become a Motion Graphics Designer  Complete Career Roadmap ",
+            "content":" Imagine if pictures could come to life, telling stories and conveying messages with movement. That's"
+        },
+        {
+            "id":"20",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Career-Opportunities-in-Digital-Marketing.webp ",
+            "title":"Career Opportunities in Digital Marketing | Digital Marketing Career ",
+            "content":"As we move forward in today's digital age, the need for businesses to engage with "
+        },
+        {
+            "id":"21",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/06/AWS.jpg",
+            "title":"Is AWS Certification Worth It? | Best AWS Certifications 2023 ",
+            "content":"IT runs the world and is everywhere. And if you're someone who's least interested in "
+        },
+        {
+            "id":"22",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/06/TCS-NQT-EXAM-2023.jpg",
+            "title":" What is TCS NQT | Everything You Need to Know",
+            "content":"As a fresh graduate, your goal is to join a reputable company and start your "
+        },
+        {
+            "id":"23",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/05/image-13.png",
+            "title":"Machine Learning Must-Knows: Reliable Models ",
+            "content":"Machine Learning (ML) is a field of Artificial Intelligence (AI) that focuses on the development "
+        },
+        {
+            "id":"24",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/05/image-6.png",
+            "title":"Basics of NLP: A Beginner's Guide to Natural Language Processing ",
+            "content":" "
+        },
+        {
+            "id":"25",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023.png",
+            "title":"The Top 10 Tools Every Full Stack Developer Should Master in 2023  ",
+            "content":"As a full stack developer, having the right set of tools is crucial for your "
+        },
+        {
+            "id":"26",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications.png",
+            "title":"The Ultimate Guide to Real-World Full Stack Development Applications  ",
+            "content":"Full stack development has become increasingly popular in recent years, with companies seeking professionals who "
+        },
+        {
+            "id":"27",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development.webp ",
+            "title":"Best Ways to Learn Full Stack Development in 2023  ",
+            "content":"Full stack development is and will be a promising and an in-demand career in the "
+        },
+        {
+            "id":"28",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/image-6.png",
+            "title":" Top Skills To Become a Full Stack Developer in 2023 ",
+            "content":"Are you interested in becoming a great full-stack developer? If so, then you're at the "
+        },
+        {
+            "id":"29",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/24746653_7002417-1-2048x1365.jpg",
+            "title":"The Future & Scope of Full Stack Developers in India  ",
+            "content":"Have you ever wondered about the future of full stack developers in India? These talented "
+        },
+        {
+            "id":"30",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Full-Stack-Development-Webinars-and-Workshops.jpg",
+            "title":" Top Full Stack Development Webinars and Workshops ",
+            "content":"Are you keen to elevate your web development skills and master the art of Full "
+        },
+        {
+            "id":"31",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+            "title":" Top 10 Full Stack Developer Frameworks in 2023 ",
+            "content":" In the ever-evolving world of technology, the demand for full stack developers is at an"
+        },
+        {
+            "id":"32",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/professional-programmer-working-late-dark-office.jpg",
+            "title":"5 Career Opportunities for Full Stack Development  ",
+            "content":"Ever wondered what awesome job opportunities are waiting for you in the field of Full Stack Development?  "
+        },
+        {
+            "id":"33",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/roles_and_responsibilities_of_full_stack_developer_1x.webp",
+            "title":" Roles & Responsibilities of Full Stack Developers in 2023 ",
+            "content":"Do you want to become a full stack developer? If yes, you must definitely know "
+        },
+        {
+            "id":"34",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/data-science-webinars-and-workshops.webp",
+            "title":" Data Science Webinars and Workshops ",
+            "content":"In today's world, it's becoming increasingly important to be knowledgeable in the field of data "
+        },
+        {
+            "id":"35",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/best-data-science-frameworks.webp",
+            "title":" 10 Best Data Science Frameworks in 2023 ",
+            "content":"Does data scientists fascinate you? If yes, you must definitely know about data science frameworks. "
+        },
+        {
+            "id":"36",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/must-watch-data-science-focused-youtube-channels.webp",
+            "title":"7 Must-Watch Data Science Focused YouTube Channels for Effective Learning  ",
+            "content":"Data science has become one of the most sought-after skills in the current job market. "
+        },
+        {
+            "id":"37",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/13311397_v617batch2-kul-05-technology-1-scaled.jpg ",
+            "title":"A Complete Data Scientist Roadmap for Beginners  ",
+            "content":"Do you want to pursue a career in Data Science? If so then you must've "
+        },
+        {
+            "id":"38",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9.png ",
+            "title":"A Responsibilities of a Data Scientist  for Beginners  ",
+            "content":"Do you want to pursue a career in Data Science? If so then you must've "
+        },
+
+        {
+            "id":"39",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/conceptual-data-analysis-with-wooden-blocks-magnifying-glass-side-view-1.jpg",
+            "title":"Best Way to Learn Data Science in 2023  ",
+            "content":" Have you ever wondered what it takes to become a data scientist? Is unraveling complex"
+        },
+        {
+            "id":"40",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
+            "title":"Roles and Responsibilities of a Data Scientist  ",
+            "content":"Data science is a rapidly growing field that has become essential for businesses to thrive "
+        },
+        {
+            "id":"41",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-scaled.jpg",
+            "title":"How to become a Data Scientist after Mechanical Engineering?  ",
+            "content":"Switching careers can sound quite intimidating especially when you're a mechanical engineer by educational "
+        },
+        {
+            "id":"42",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/12/image-9.png",
+            "title":"Neural Network Skills to Succeed in Data Science  ",
+            "content":"If you're here, then you already understand what a huge grasp data scientists have in "
+        },
+        {
+            "id":"43",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
+            "title":"Cybersecurity Vs Ethical Hacking: Top 10 Differences ",
+            "content":"Cybersecurity & Ethical hacking and have been key in making sure that your data online "
+        },
+        {
+            "id":"44",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+            "title":"What is Cybersecurity? Importance and its uses & the growing challenges in 2023! ",
+            "content":"Look around today, you will witness that we are more reliant on technology and devices "
+        },
+        {
+            "id":"45",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/11/Blue-Purple-Futuristic-Virus-Hacks-Youtube-Thumbnail.png",
+            "title":" Top 10 Ethical Hacking Books for Beginner to Advanced",
+            "content":" Did you know that according to the University of Maryland hackers attack every 39 seconds"
+        },
+        {
+            "id":"46",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1.png",
+            "title":"8 Different Types of Cybersecurity and Threats Involved ",
+            "content":"Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from "
+        },
+        {
+            "id":"47",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+            "title":"Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity? ",
+            "content":"Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well, "
+        },
+        {
+            "id":"48",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact.jpg",
+            "title":"Top 7 Cyber Security Attacks in Real Life ",
+            "content":"Cyber security attacks are the type of actions that are designed to destroy, steal, modify, "
+        },
+        {
+            "id":"49",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9.png",
+            "title":" The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
+            "content":"There is something fascinating about a lone hacker in black hoodies using a single system "
+        },
+        {
+            "id":"50",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2021/03/Cybersecurity-ultimate-guide.png",
+            "title":" Cybersecurity Jobs: Ultimate Cybersecurity Career Roadmap",
+            "content":"According to the job statistics of 2020, cybersecurity jobs were among the top 15 emerging "
+        },
+        {
+            "id":"51",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png",
+            "title":"How Is Cyber Security Important To Our Lives? ",
+            "content":" Cybersecurity is an exact solution that is sought either by a billionaire with a massive"
+        }
+
+    ],
+
+    "fsd":[
+        {
+            "id":"1",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023.png",
+            "title":"The Top 10 Tools Every Full Stack Developer Should Master in 2023  ",
+            "content":"As a full stack developer, having the right set of tools is crucial for your "
+        },
+        {
+            "id":"2",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications.png",
+            "title":"The Ultimate Guide to Real-World Full Stack Development Applications  ",
+            "content":"Full stack development has become increasingly popular in recent years, with companies seeking professionals who "
+        },
+        {
+            "id":"3",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development.webp ",
+            "title":"Best Ways to Learn Full Stack Development in 2023  ",
+            "content":"Full stack development is and will be a promising and an in-demand career in the "
+        },
+        {
+            "id":"4",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/image-6.png",
+            "title":" Top Skills To Become a Full Stack Developer in 2023 ",
+            "content":"Are you interested in becoming a great full-stack developer? If so, then you're at the "
+        },
+        {
+            "id":"5",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/24746653_7002417-1-2048x1365.jpg",
+            "title":"The Future & Scope of Full Stack Developers in India  ",
+            "content":"Have you ever wondered about the future of full stack developers in India? These talented "
+        },
+        {
+            "id":"6",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Full-Stack-Development-Webinars-and-Workshops.jpg",
+            "title":" Top Full Stack Development Webinars and Workshops ",
+            "content":"Are you keen to elevate your web development skills and master the art of Full "
+        },
+        {
+            "id":"7",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+            "title":" Top 10 Full Stack Developer Frameworks in 2023 ",
+            "content":" In the ever-evolving world of technology, the demand for full stack developers is at an"
+        },
+        {
+            "id":"8",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/professional-programmer-working-late-dark-office.jpg",
+            "title":"5 Career Opportunities for Full Stack Development  ",
+            "content":"Ever wondered what awesome job opportunities are waiting for you in the field of Full Stack Development?  "
+        },
+        {
+            "id":"9",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/roles_and_responsibilities_of_full_stack_developer_1x.webp",
+            "title":" Roles & Responsibilities of Full Stack Developers in 2023 ",
+            "content":"Do you want to become a full stack developer? If yes, you must definitely know "
+        }
+    
+    ],
+    "data_sci":[
+        {
+            "id":"1",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/data-science-webinars-and-workshops.webp",
+            "title":" Data Science Webinars and Workshops ",
+            "content":"In today's world, it's becoming increasingly important to be knowledgeable in the field of data "
+        },
+        {
+            "id":"2",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/best-data-science-frameworks.webp",
+            "title":" 10 Best Data Science Frameworks in 2023 ",
+            "content":"Does data scientists fascinate you? If yes, you must definitely know about data science frameworks. "
+        },
+        {
+            "id":"3",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/must-watch-data-science-focused-youtube-channels.webp",
+            "title":"7 Must-Watch Data Science Focused YouTube Channels for Effective Learning  ",
+            "content":"Data science has become one of the most sought-after skills in the current job market. "
+        },
+        {
+            "id":"4",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/13311397_v617batch2-kul-05-technology-1-scaled.jpg ",
+            "title":"A Complete Data Scientist Roadmap for Beginners  ",
+            "content":"Do you want to pursue a career in Data Science? If so then you must've "
+        },
+        {
+            "id":"5",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9.png ",
+            "title":"A Responsibilities of a Data Scientist  for Beginners  ",
+            "content":"Do you want to pursue a career in Data Science? If so then you must've "
+        },
+
+        {
+            "id":"6",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/conceptual-data-analysis-with-wooden-blocks-magnifying-glass-side-view-1.jpg",
+            "title":"Best Way to Learn Data Science in 2023  ",
+            "content":" Have you ever wondered what it takes to become a data scientist? Is unraveling complex"
+        },
+        {
+            "id":"7",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
+            "title":"Roles and Responsibilities of a Data Scientist  ",
+            "content":"Data science is a rapidly growing field that has become essential for businesses to thrive "
+        },
+        {
+            "id":"8",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-scaled.jpg",
+            "title":"How to become a Data Scientist after Mechanical Engineering?  ",
+            "content":"Switching careers can sound quite intimidating especially when you're a mechanical engineer by educational "
+        },
+        {
+            "id":"9",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/12/image-9.png",
+            "title":"Neural Network Skills to Succeed in Data Science  ",
+            "content":"If you're here, then you already understand what a huge grasp data scientists have in "
+        }
+    ],
+    
+    "cyber_sec":[
+        {
+            "id":"1",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
+            "title":"Cybersecurity Vs Ethical Hacking: Top 10 Differences ",
+            "content":"Cybersecurity & Ethical hacking and have been key in making sure that your data online "
+        },
+        {
+            "id":"2",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+            "title":"What is Cybersecurity? Importance and its uses & the growing challenges in 2023! ",
+            "content":"Look around today, you will witness that we are more reliant on technology and devices "
+        },
+        {
+            "id":"3",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/11/Blue-Purple-Futuristic-Virus-Hacks-Youtube-Thumbnail.png",
+            "title":" Top 10 Ethical Hacking Books for Beginner to Advanced",
+            "content":" Did you know that according to the University of Maryland hackers attack every 39 seconds"
+        },
+        {
+            "id":"4",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1.png",
+            "title":"8 Different Types of Cybersecurity and Threats Involved ",
+            "content":"Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from "
+        },
+        {
+            "id":"5",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+            "title":"Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity? ",
+            "content":"Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well, "
+        },
+        {
+            "id":"6",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact.jpg",
+            "title":"Top 7 Cyber Security Attacks in Real Life ",
+            "content":"Cyber security attacks are the type of actions that are designed to destroy, steal, modify, "
+        },
+        {
+            "id":"7",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9.png",
+            "title":" The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
+            "content":"There is something fascinating about a lone hacker in black hoodies using a single system "
+        },
+        {
+            "id":"8",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2021/03/Cybersecurity-ultimate-guide.png",
+            "title":" Cybersecurity Jobs: Ultimate Cybersecurity Career Roadmap",
+            "content":"According to the job statistics of 2020, cybersecurity jobs were among the top 15 emerging "
+        },
+        {
+            "id":"9",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png",
+            "title":"How Is Cyber Security Important To Our Lives? ",
+            "content":" Cybersecurity is an exact solution that is sought either by a billionaire with a massive"
+        }
+    ],
+    "carrer":[
+        {
+            "id":"1",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023.png",
+            "title":"5 Career Opportunities for Full Stack Development ",
+            "content":"Ever wondered what awesome job opportunities are waiting for you in the field of Full Stack Development? Well, this blog is just for you! "
+        },
+        {
+            "id":"2",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9.png",
+            "title":"A Complete DevOps Career Roadmap in 2023 ",
+            "content":" Do you want to pursue a career in DevOps? If so, then you must've been"
+        },
+        {
+            "id":"3",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+            "title":" Top 12 Career Opportunities for UI/UX Design",
+            "content":"Are you passionate about offering intuitive and user-friendly digital experiences? Do you have an eye "
+        },
+        {
+            "id":"4",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-How-to-Become-a-Motion-Graphics-Designer.webp ",
+            "title":"How to Become a Motion Graphics Designer  Complete Career Roadmap ",
+            "content":" Imagine if pictures could come to life, telling stories and conveying messages with movement. That's"
+        },
+        {
+            "id":"5",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Career-Opportunities-in-Digital-Marketing.webp ",
+            "title":"Career Opportunities in Digital Marketing | Digital Marketing Career ",
+            "content":"As we move forward in today's digital age, the need for businesses to engage with "
+        },
+        {
+            "id":"6",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/06/AWS.jpg",
+            "title":"Is AWS Certification Worth It? | Best AWS Certifications 2023 ",
+            "content":"IT runs the world and is everywhere. And if you're someone who's least interested in "
+        },
+        {
+            "id":"7",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/06/TCS-NQT-EXAM-2023.jpg",
+            "title":" What is TCS NQT | Everything You Need to Know",
+            "content":"As a fresh graduate, your goal is to join a reputable company and start your "
+        },
+        {
+            "id":"8",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/05/image-13.png",
+            "title":"Machine Learning Must-Knows: Reliable Models ",
+            "content":"Machine Learning (ML) is a field of Artificial Intelligence (AI) that focuses on the development "
+        },
+        {
+            "id":"9",
+            "img":"https://www.guvi.in/blog/wp-content/uploads/2023/05/image-6.png",
+            "title":"Basics of NLP: A Beginner's Guide to Natural Language Processing ",
+            "content":" "
+        }
+    ]
+}
